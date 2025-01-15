@@ -1,6 +1,6 @@
 ---
-title: ""Severance", conciliación laboral a lo bestia"
-date: 2025-10-30
+title: "SEVERANCE"
+date: 2025-01-15
 ---
 
 ## "Severance", conciliación laboral a lo bestia
