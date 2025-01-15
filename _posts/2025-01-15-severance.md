@@ -31,6 +31,7 @@ La serie "Severance" está disponible en Apple TV (aunque yo obviamente no pagu�
 Esta es mi primera entrada del blog y realmente no sé muy bien que colgar en él, tengo algunas ideas sobre temas relacionados con la economía laboral, inferencia causal, a la vez que comentarios de series o libros y otras ideas que pasan por mi cabeza. Quiero mezclar cosas académicas con cosas menos aburridas (o más divulgativo, llámalo como quieras).
 
 Let’s see.
+
 **Á.**
 
 
