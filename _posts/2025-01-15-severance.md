@@ -1,5 +1,5 @@
 ---
-title: "SEVERANCE"
+title: "Severance: No vivas para trabajar"
 date: 2025-01-15
 ---
 
