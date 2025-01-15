@@ -3,7 +3,7 @@ title: "Severance: No vivas para trabajar"
 date: 2025-01-15
 ---
 
-## "Severance", conciliación laboral a lo bestia
+## Conciliación laboral a lo bestia
 
 En 2023 Apple TV estrenó **"Severance"** una serie distópica, un thriller psicológico con una premisa más que interesante. Intentaré hacer una reseña sin spoilers aunque no prometo nada. ¿Aceptarías separar una parte de tí para que tu vida personal no afecte a tu trabajo y viceversa? Los trabajadores de la empresa Lumon han aceptado participar en el programa Severance "No vivas para trabajar", donde se les ha implantado un chip en el cerebro para separar su vida dentro del trabajo y fuera de él, con el objetivo de aumentar la productividad de la empresa, evitar robos de información sensible y mejorar la calidad de vida de los empleados.
 
@@ -28,9 +28,9 @@ Hace 10 años cuando iba con los colegas al Burger King, comentábamos con perpl
 La serie "Severance" está disponible en Apple TV (aunque yo obviamente no pagué Apple TV para verla), la segunda temporada sale este fin de semana (17 de enero de 2025), y el final de la primera temporada deja todo abierto. La serie es del 2023 y parece futurista, sin embargo, Elon Musk acaba de implantar el primer chip en el cerebro de un humano. Hace unos años los asistentes virtuales parecía una utopía: [Her](https://www.filmaffinity.com/es/film889720.html), [Black mirror](https://www.filmaffinity.com/es/film800295.html), o incluso la nueva españolada [Justicia artificial](https://www.filmaffinity.com/es/film800295.html), donde se pintaba un futuro distópico con se tienen relaciones de pareja con bots, se guardan recuerdos en la nube o una inteligencia artificial decide tu puntuación en el trabajo o incluso en un juicio, y a día de hoy ya tenemos ChatGPT y Apple glasses. Incluso he escuchado que ya hay asistentes psicológicos y sexuales que están empezando a funcionar y creo que se van a poner muy de moda este 2025. 
 
 ### Reflexión personal y conclusión
-Esta es mi primera entrada del blog y realmente no sé muy bien que colgar en él, tengo algunas ideas sobre temas relacionados con la economía laboral, inferencia causal, a la vez que comentarios de series o libros y otras ideas que pasan por mi cabeza. Quiero mezclar cosas académicas con cosas menos aburridas (o más divulgativo llámalo como quieras).
+Esta es mi primera entrada del blog y realmente no sé muy bien que colgar en él, tengo algunas ideas sobre temas relacionados con la economía laboral, inferencia causal, a la vez que comentarios de series o libros y otras ideas que pasan por mi cabeza. Quiero mezclar cosas académicas con cosas menos aburridas (o más divulgativo, llámalo como quieras).
 
 Let’s see.
-Á.
+**Á.**
 
 
